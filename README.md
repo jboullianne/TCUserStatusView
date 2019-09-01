@@ -3,5 +3,5 @@
 
  Download `UserStatusView.swift` to add to your custom iOS Application.
 
-![UserStatusView Gif](/USV.gif?s=200)
+![UserStatusView Gif](/USV.gif){:height="242px" width="240px"}
 ![UserStatusView ScreenShot](/USVScreenShot.png)
